@@ -1,3 +1,4 @@
+[TOC]
 # SQL 手册
 
 Palo提供在线和离线的SQL手册。
